@@ -1,0 +1,11 @@
+Nama	: Nikita Alicia Juliet Afifah
+NIM	: 123190056
+
+Penerapan Logika Fuzzy Untuk Menentukan Ikan yang Cocok Untuk Dibudidaya di Suatu Lahan
+
+Terdapat 3 macam jenis ikan yang berbeda, yaitu ikan lele, ikan gurame, dan ikan tenggiri. Terdapat tiga variabel yang dapat mempengaruhi perkembangan
+ketiga ikan tersebut yaitu pH air, warna air dan salinitas air. 
+- Ikan lele cocok dibudidayakan di air yang memiliki pH sedang, warna air yang keruh, dan salinitas air sedang.
+- Ikan gurame cocok dibudidayakan di air yang memiliki pH air sedang, warna air jernih, dan salinitas air sedang.
+- Ikan tenggiri cocok dibudidayakan di air yang memiliki pH air tinggi, warna air sedang dan salinitas air tinggi.
+Batasan tiap pH air, warna air, dan salinitas air tidaklah jelas maka dari itu bersifat fuzzy.
